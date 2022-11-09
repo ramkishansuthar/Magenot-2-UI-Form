@@ -1,6 +1,4 @@
-# README
-Thank you for using our product.
-This extension is developed by [Hexcrypto Technologies](https://hexcrypto.com/).
+
 
 ## NOTE
 This extension is build with Magento 2 UI Components, Please follow steps below to use this extension.
